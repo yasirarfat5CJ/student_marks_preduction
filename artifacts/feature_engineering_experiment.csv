@@ -1,0 +1,3 @@
+feature_set,cv_mae_mean,cv_mae_std
+Original features,5.6295367917181,0.09818935018992221
+Original + engineered features,5.5740633361664855,0.085214099225009
