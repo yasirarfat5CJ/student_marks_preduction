@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+pydantic
+pydantic-settings
+python-dotenv
+PyJWT
+bcrypt
+pandas
+numpy
+scikit-learn
+joblib
+shap
+alembic
+pytest
+httpx
